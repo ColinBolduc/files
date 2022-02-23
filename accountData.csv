@@ -1,0 +1,2 @@
+type,id,unitId,date,itemId,quantity,amount,memo
+test,45,4,2022-01-06,6,1,25.25,Test Alpha Type,
